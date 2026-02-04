@@ -14,7 +14,6 @@
 https://github.com/user-attachments/assets/2daa9f17-329e-4019-8f14-68ac2c467592
 
 
-<br>
 <em>
     (Results on Self Forcing 1.3B. Left: Dense Attention. Right: 1.3x acceleration using Light Forcing) 
 </em>
