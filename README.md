@@ -7,6 +7,7 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)&nbsp;
 [![arXiv](https://img.shields.io/badge/arXiv-2602.04789-b31b1b)](https://arxiv.org/abs/2602.04789)&nbsp;
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-Light--Forcing-yellow?logo=huggingface)](https://huggingface.co/mack-williams/Light-Forcing)&nbsp;
+[![Demo](https://img.shields.io/badge/🤗_Demo-Hugging_Face_Spaces-yellow)](https://huggingface.co/spaces/hugging-apps/light-forcing-video-generation)&nbsp;
 [![GitHub Stars](https://img.shields.io/github/stars/chengtao-lv/LightForcing.svg?style=social&label=Star&maxAge=60)](https://github.com/chengtao-lv/LightForcing)&nbsp;
 
 [Chengtao Lv](https://scholar.google.com/citations?user=r8vseSUAAAAJ&hl=en&oi=ao), [Yumeng Shi](https://scholar.google.com/citations?user=z-jFDGMAAAAJ&hl=en&oi=ao), [Yushi Huang](https://harahan.github.io/), [Ruihao Gong](https://xhplus.github.io/)📧, [Shen Ren](https://sg.linkedin.com/in/shen-ren-5a378849), [Wenya Wang](https://personal.ntu.edu.sg/wangwy/)📧
